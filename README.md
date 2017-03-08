@@ -9,6 +9,7 @@ The EVIL EMAIL/SMS BOMBER is made for research and testing purposes only.  Prank
 
 Features:  
 Send Bulk Emails – Mass Emailing – Email Bombing
+
 Send Bulk SMS – Mass SMS Sending – SMSBombing  =  Only For USA and Canada Numbers
 
 Unlimited SMTP Servers Using Free Email Providers
