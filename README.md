@@ -3,7 +3,7 @@ The EVIL-EMAIL-SMS-BOMBER was created for research and testing purposes only.  P
 
 
 DISCLAIMER:  Use at your own risk!  I take no responsibility for your actions.  This was made for pranks, testing and investigation purposes only.
-
+<img src="https://ibb.co/fZVfyv" alt="BOMBER">
 PLEASE READ THE INSTRUCTIONS FIRST
                     Features:  
 
