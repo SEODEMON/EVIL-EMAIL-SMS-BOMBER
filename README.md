@@ -14,5 +14,5 @@ How To USE
 
 PLEASE READ THE INSTRUCTIONS IN THE PDF FILE FIRST
 
-My name is Jeff Childers and this is one of my first large complex PHP script.  I love PHP but I got a long road ahead still.
+ My name is Jeff Childers and this is one of my first large complex PHP scripts.  I love PHP but I stillgot a long road ahead with much more to learn. .
   
