@@ -438,4 +438,6 @@ class Mail_smtp extends Mail {
             . " (code: $code, response: $response)]";
     }
 
+
+
 }
