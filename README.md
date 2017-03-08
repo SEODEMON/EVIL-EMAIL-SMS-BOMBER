@@ -16,7 +16,9 @@ Multiple SMTP Servers Using Free Email Providers
 
 How To USE 
 
-PLEASE READ THE INSTRUCTIONS IN THE PDF FILE FIRST   https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/INSTRUCTIONS.pdf
+PLEASE READ THE INSTRUCTIONS IN THE PDF FILE FIRST   
+
+https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/INSTRUCTIONS.pdf
 
  My name is Jeff Childers and this is one of my first large complex PHP scripts.  I love PHP but I stillgot a long road ahead with much more to learn. .
   
