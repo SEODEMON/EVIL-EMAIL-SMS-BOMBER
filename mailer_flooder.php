@@ -72,8 +72,10 @@ set_time_limit(0);
 ini_set('display_errors','on');
 error_reporting(E_ALL);
 
+// BY PHP NINJA JEFF CHILDERS
+// for RESEARCH PURPOSES ONLY
 
-// Proxy Option
+// Proxy Option Coming Soon
 
 
 
