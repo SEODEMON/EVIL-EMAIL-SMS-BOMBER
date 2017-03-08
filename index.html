@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Evil Email/SMS Bomber - ANONYMOUS</title>
+<meta name="description" content="Evil Email/SMS Bomber ANONYMOUS LEGION ">
+<meta name="author" content="https://www.facebook.com/AnonymousLegionForJustice">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<script src="js/jquery.min.js" type="text/javascript"></script>
+<style type="text/css">
+body {
+    background: url(images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+
+#spamform {
+float:left;
+margin-top:0.5em;
+margin-left:1.5em;
+}
+
+</style>
+</head>    
+<body>
+<div id="spamform">
+<img src="images/logo.png" alt="Logo" style="width:24em;height:7em;">
+<p style="font-weight:900; color:#ff0000;font-family: Arial Black, Gadget, sans-serif;">PLEASE READ THE INSTRUCTIONS FIRST</p> 
+<form method="post" action="mailer_flooder.php">
+<p style="font-weight:900; color:#ffffff;">Mail Subject:
+<br /><br /><input type="text" name="subject"  style="border:groove 6px yellow; width:28em;height:2em;" /></p>
+<p style="font-weight:900;font-family: Arial Black, Gadget, sans-serif;color:#ffffff;">SUPPORTS SPINTAX</p> <span style="font-weight:900;font-family: Arial Black, Gadget, sans-serif;color:red;">EXAMPLE:</span> 
+<p style="font-weight:900;font-family: Arial Black, Gadget, sans-serif;color:#ffffff;">{cat|Dog|cow|Go {from|to} the car|Run to the moon}
+ <br />  <br />
+{From {Sam|Jack|Dan|James|Derick|Fred Smith}</p>
+<p style="font-weight:900; color:#ffffff;">Message:
+<br /><br /><textarea name="message" rows="10" cols="50" style="border:groove 8px yellow;"></textarea></p>
+<p style="font-weight:900; color:#ffffff;">Times To Send:
+<br /><input type="text" name="sendtimes"  style="border:groove 6px red;" /></p>
+<p><input type="submit" style="font-size:30px;width:90px; background-color: #000000;color: yellow;border: 2px solid orange;"  value="Send" /></p>
+</form>
+</div>
+</body>
+</html>
