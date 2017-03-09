@@ -21,5 +21,6 @@ PLEASE READ THE INSTRUCTIONS IN THE PDF FILE FIRST
 
 https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/INSTRUCTIONS.pdf
 
- My name is Jeff Childers and this is one of my first large complex PHP scripts.  I love PHP but I still got a long road ahead with much more to learn. .
-  
+[![IMAGE ALT TEXT HERE](https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/images/youtube.JPG)](https://www.youtube.com/watch?v=saMag6sGbV0
+
+
