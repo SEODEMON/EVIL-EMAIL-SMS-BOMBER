@@ -3,6 +3,7 @@
 
 ![alt tag](https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/images/logo.png)
 
+### By Jeff Childers
 
 #### The EVIL EMAIL/SMS BOMBER is made for research and testing purposes only.  Prank your friends.  EVIL EMAIL/SMS BOMBER can send bulk mail or SMS text messages.
  
