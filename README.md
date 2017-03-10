@@ -1,10 +1,15 @@
 # EVIL-EMAIL-SMS-BOMBER
 
+
+![alt tag](https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/images/logo.png)
+
+
 #### The EVIL EMAIL/SMS BOMBER is made for research and testing purposes only.  Prank your friends.  EVIL EMAIL/SMS BOMBER can send bulk mail or SMS text messages.
  
 #### DISCLAIMER:  Use at your own risk!  I take no responsibility for your actions.  This was made for pranks, testing and investigation purposes only.
  
-#### SMS is Only For USA and Canada Numbers
+### SMS is Only For USA and Canada Numbers
+
  
 ![alt tag](https://github.com/SEODEMON/EVIL-EMAIL-SMS-BOMBER/blob/master/images/SCREEN_SHOT.jpg)
 
