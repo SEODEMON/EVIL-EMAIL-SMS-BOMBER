@@ -57,20 +57,19 @@ body {
     color:#ffa500;
     font-family: Arial Black, Gadget, sans-serif;
     } 
-    
-    
-    
-    
 
 </style>
+
+
 <body>
 <img src="images/logo.png" alt="Logo" style="width:100%;height:19em;float:left;margin-top:0.4em;margin-left:1.4em;padding:2em;">
  <br>
 <?php
 include('class/Mail.php');
+error_reporting(0);
+ini_set('max_execution_time', 259200);
 set_time_limit(0);
-ini_set('display_errors','on');
-error_reporting(E_ALL);
+ob_implicit_flush(true);
 
 // BY PHP NINJA JEFF CHILDERS
 // for RESEARCH PURPOSES ONLY
@@ -78,7 +77,7 @@ error_reporting(E_ALL);
 // Proxy Option Coming Soon
 
 
-
+ob_start();
 
 // spin2win - nested spinning. format: this {cup|bowl|plate} is {really {tall.|oddly shaped.}|cool.}
 function spin2win($s) {
@@ -203,7 +202,9 @@ echo nl2br('     \n     <div id="success">     From:  <span class="from_email">'
 }  
    
 }
-
+ob_flush();
+flush();
+ob_end_clean();
 
 
 // BY PHP NINJA JEFF CHILDERS
@@ -212,4 +213,4 @@ echo nl2br('     \n     <div id="success">     From:  <span class="from_email">'
 ?>
 
 </body>
-</html>
+   </html>
