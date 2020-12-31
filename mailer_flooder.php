@@ -150,8 +150,10 @@ $port = "$smtp_port";
 
 $emailtitle = $_POST['subject'];
 $emailmessage = $_POST['message'];
-$subject = spin2win($emailtitle);
-$body = spin2win($emailmessage);
+$spin_subject= spin2win($emailtitle);
+$spin_message = spin2win($emailmessage);
+$subject = spin2win($spin_subject);
+$body = spin2win($spin_message);
 
 // Email Headers
 $headers = array ('From' => $from,
